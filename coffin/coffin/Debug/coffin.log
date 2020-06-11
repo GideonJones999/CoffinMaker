@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jonesgid000\documents\visual studio 2017\projects\coffin\coffin\source.cpp(73): error C3867: 'Box::getWidth': non-standard syntax; use '&' to create a pointer to member
+c:\users\jonesgid000\documents\visual studio 2017\projects\coffin\coffin\source.cpp(73): error C3867: 'Box::getDepth': non-standard syntax; use '&' to create a pointer to member
+c:\users\jonesgid000\documents\visual studio 2017\projects\coffin\coffin\source.cpp(73): error C2296: '*': illegal, left operand has type 'int (__thiscall Box::* )(void)'
+c:\users\jonesgid000\documents\visual studio 2017\projects\coffin\coffin\source.cpp(73): error C2297: '*': illegal, right operand has type 'int (__thiscall Box::* )(void)'
